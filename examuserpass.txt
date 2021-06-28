@@ -1,0 +1,15 @@
+root:root
+root:password
+root:calvin
+root:changeme
+sonos:sonos
+demo:m9ff.QW
+wasadmin:wasadmin
+maxadmin:maxadmin
+mxintadm:mxintadm
+maxreg:maxreg
+root:
+postgres:postgres
+admin:admin
+admin:12345
+admin:123456
